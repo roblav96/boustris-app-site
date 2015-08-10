@@ -1,0 +1,296 @@
+/*
+ * Base structure
+ */
+/*@media screen {
+	
+}*/
+
+.control-label {
+    font-weight: bold;
+}
+
+html,
+body {
+    /*overflow-y: visible;*/
+    
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+}
+
+h4 {
+    line-height: 30px;
+}
+
+p,
+li,
+.panel-body {
+    font-size: 11pt;
+}
+
+.label {
+    font-size: 26pt;
+    margin-bottom: 200px;
+}
+
+.mainPanel {
+    font-size: 26pt;
+}
+
+.panel-heading > h3 {
+    font-size: 12pt;
+}
+
+.panel-info > .panel-heading > h3 {
+    font-size: 14pt;
+}
+
+*:active,
+*:hover {
+    cursor: default;
+}
+
+body {
+    margin-top: 100px;
+    width: 1225px;
+}
+
+.navbar {
+    width: 1225px !important;
+}
+
+.container {
+    width: 1225px !important;
+}
+
+.container-fluid {
+    width: 1225px !important;
+}
+
+.canvas_print {
+    /*width: 1220px;*/
+}
+
+.center-block {
+    text-align: center;
+}
+
+.fire {
+    color: red;
+}
+
+.margin_t150 {
+    margin-top: 150px;
+}
+
+.padding_b {
+    padding-bottom: 150px;
+}
+
+hr {
+    height: 5px;
+    background-color: #333;
+}
+
+.hr_cover {
+    /*margin-top: 500px;*/
+}
+
+#viccusbtn,
+#addcusbtn,
+#zoncusbtn {
+    width: 100px;
+}
+/*#t {
+	position: absolute;
+	top: 1500px;
+}*/
+
+table,
+thead,
+tbody {
+    /*table-layout: fixed;*/
+}
+
+.bold {
+    font-weight: bold;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: bold;
+}
+
+.badge {
+    background-color: #333;
+    color: #fff !important;
+    font-size: 10pt;
+}
+
+.dyn > .badge {
+    display: none;
+}
+
+.badge-primary {
+    background-color: #008cba;
+}
+
+.badge-success {
+    background-color: #358753;
+}
+
+.badge-danger {
+    background-color: #f04124;
+}
+
+.badge-chart {
+    color: #ffffff;
+    background-color: #333333;
+}
+
+.dyn:hover,
+.dyn:active {
+    box-shadow: inset 0 0 0 3px #e99002, 0 0 0 rgba(0, 0, 0, 0) !important;
+}
+
+input:hover,
+.dyn:hover,
+.dyn:active {
+    cursor: pointer;
+}
+
+.dyn > span:hover {
+    cursor: pointer;
+}
+
+input[type="text"]:hover {
+    cursor: text;
+}
+
+#text_model_clear_btn {
+    margin-right: 25px;
+}
+
+canvas {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.dropdown-header {
+    font-size: 10pt;
+}
+
+.form-group > .checkbox-inline {
+    zoom: 1.5;
+}
+
+.form-group > .radio-inline {
+    zoom: 1.5;
+}
+
+.red {
+    color: red;
+}
+
+.device_pb {
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+#drop_menu {
+    overflow-y: scroll;
+    max-height: 720px;
+}
+
+#pic_zoom_modal > .modal-lg {
+    width: 95%;
+}
+
+#devid_form {
+    display: none;
+}
+
+.modal-content {
+    border: 4px solid #cccccc;
+}
+
+@media print {
+    .page_br {
+        page-break-before: always !important;
+        padding-top: 10px;
+        margin-bottom: 5px;
+        display: block;
+    }
+    .panel-primary > .panel-body {
+        padding-bottom: 0px;
+    }
+    .panel-info > .panel-body {
+        padding-bottom: 0px;
+    }
+    .hidden-print {
+        display: none;
+    }
+    nav {
+        display: none;
+    }
+    #comm_info {
+        display: none;
+    }
+    .devifce_pb_d {
+        margin-left: 5px;
+        width: 20px;
+        word-wrap: none;
+        font-weight: bold;
+    }
+    .dl-horizontal > dd > span {
+        margin-left: 20px;
+    }
+    #add_all_model_btn {
+        display: none;
+    }
+    #devicestbody > tr {
+        height: 60px !important;
+        max-height: 60px !important;
+    }
+    #devices_history_tbody > tr {
+        height: 90px !important;
+        max-height: 90px !important;
+    }
+    #devices_fails_tbody > tr {
+        height: 60px !important;
+        max-height: 60px !important;
+    }
+    #reportpage {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+}
+
+@media screen {
+    .devifce_pb_d,
+    .page_br {
+        display: none;
+    }
+    .br_hide {
+        display: none;
+    }
+    #devices_history_tbody tr td:nth-child(1) {
+        /*display: none;*/
+    }
+    #hide_me_ID {
+        /*display: none;*/
+    }
+}
+
