@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Boustris Inspection Report Converter</title>
+
+	<!-- Bootstrap -->
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/main.css" rel="stylesheet">
+
+</head>
+
+<body>
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="#">Boustris Inspection Report Converter</a>
+			</div>
+		</div>
+	</nav>
+
+	<div class="container-fluid">
+		<div class="row">
+
+			<div id="upload" class="main">
+				<input class="well well-lg" type="file" id="files" name="files[]" multiple />
+				<hr><center>
+				<h1><b>INSTRUCTIONS</b></h1>
+				<p class="lead"><strong>DO NOT</strong> click to browse the files<br><strong>ONLY</strong> drag n drop in the blue box</p></center>
+				<p class="lead">Upload the following files:</p>
+				<pre><h4>Device Summary-Table 1.csv</h4></pre><pre><h4>System Test-FIRE ALARM INSPECTION REPORT.csv</h4></pre>
+				<hr>
+				<p class="lead">The data will be saved to your downloads folder in JSON format.</p>
+			</div>
+		</div>
+	</div>
+
+
+	<script src="js/jquery-1.11.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.csv-0.71.min.js"></script>
+	<script src="js/FileSaver.min.js"></script>
+	<script src="js/other.js"></script>
+</body>
+
+</html>

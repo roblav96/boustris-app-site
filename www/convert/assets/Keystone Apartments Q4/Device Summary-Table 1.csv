@@ -1,0 +1,213 @@
+PROPERTY,,Keystone Apartments,,,,,,,,,,,
+ADDRESS,,151 Hallet Street,,,,,,,,,,,
+INSPECTOR,,Nate Donnelly,,,,,,,,,,,
+LICENSE #,,A17546,,,,,,,,,DATE:,"Friday, September 26, 2014",
+#,Type,Location,,Alarm,Trouble,Supervisory,Address,Zone,Pass/Fail,Note,,,
+0,Battery(ies),FACP,Main electric room,FALSE,TRUE,FALSE,,,Pass,,,,Pass-1
+1, Annunciator,1st Floor ,Front entrance,FALSE,TRUE,FALSE,,,Pass,,,,Pass-2
+2,Tamper Switch,5th Floor,Trash Rm Right,FALSE,TRUE,FALSE,M007,,Pae Donss,,,,Pass-3
+3,Flow Switch,5th Floor,Trash Rm Right,TRUE,FALSE,FALSE,M007,,Pass,,,,Pass-4
+4,Tamper Switch,4th Floor,Trash Rm Right,FALSE,TRUE,FALSE,M012,,Pass,,,,Pass-5
+5,Flow Switch,4th Floor,Trash Rm Right,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-6
+6,Tamper Switch,3rd Floor,Trash Rm Right,FALSE,TRUE,FALSE,M009,,Pass,,,,Pass-7
+7,Flow Switch,3rd Floor,Trash Rm Right,TRUE,FALSE,FALSE,M009,,Pass,,,,Pass-8
+8,Tamper Switch,2nd Floor,Trash Rm Right,FALSE,TRUE,FALSE,M001,,Pass,,,,Pass-9
+9,Flow Switch,2nd Floor,Trash Rm Right,TRUE,FALSE,FALSE,M001,,Pass,,,,Pass-10
+10,Tamper Switch,1st Floor,Trash Rm Right,FALSE,TRUE,FALSE,M010,,Pass,,,,Pass-11
+11,Flow Switch,1st Floor,Trash Rm Right,TRUE,FALSE,FALSE,M010,,Pass,,,,Pass-12
+12,Tamper Switch,1st Floor,Right Hall,FALSE,TRUE,FALSE,M010,,Pass,,,,Pass-13
+13,Flow Switch,1st Floor,Right Hall,TRUE,FALSE,FALSE,M010,,Pass,,,,Pass-14
+14,Tamper Switch,1st Floor,compactor Rm Right,FALSE,TRUE,FALSE,M010,,Pass,,,,Pass-15
+15,Flow Switch,1st Floor,compactor Rm Right,TRUE,FALSE,FALSE,M010,,Pass,,,,Pass-16
+16,Tamper Switch,5th Floor,Trash Rm left,FALSE,TRUE,FALSE,M003,,Pass,,,,Pass-17
+17,Flow Switch,5th Floor,Trash Rm left,TRUE,FALSE,FALSE,M003,,Pass,,,,Pass-18
+18,Tamper Switch,4th Floor,Trash Rm left,FALSE,TRUE,FALSE,M008,,Pass,,,,Pass-19
+19,Flow Switch,4th Floor,Trash Rm left,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-20
+20,Tamper Switch,3rd Floor,Trash Rm left,FALSE,TRUE,FALSE,M002,,Pass,,,,Pass-21
+21,Flow Switch,3rd Floor,Trash Rm left,TRUE,FALSE,FALSE,M002,,Pass,,,,Pass-22
+22,Tamper Switch,2nd Floor,Trash Rm left,FALSE,TRUE,FALSE,M004,,Pass,,,,Pass-23
+23,Flow Switch,2nd Floor,Trash Rm left,TRUE,FALSE,FALSE,M004,,Pass,,,,Pass-24
+24,Tamper Switch,1st Floor,Hall left,FALSE,TRUE,FALSE,M005,,Pass,,,,Pass-25
+25,Flow Switch,1st Floor,Hall left,TRUE,FALSE,FALSE,M005,,Pass,,,,Pass-26
+26,Tamper Switch,1st Floor,compactor Rm left,FALSE,TRUE,FALSE,M005,,Pass,,,,Pass-27
+27,Flow Switch,1st Floor,compactor Rm left,TRUE,FALSE,FALSE,M005,,Pass,,,,Pass-28
+28,Tamper Switch,1st Floor,Standpipe by Stair 1,FALSE,TRUE,FALSE,M005,,Pass,,,,Pass-29
+29,Tamper Switch,1st Floor,Standpipe left side of elevator,FALSE,TRUE,FALSE,M015,,Pass,,,,Pass-30
+30,Flow Switch,1st Floor,Standpipe center community rm,TRUE,FALSE,FALSE,M015,,Pass,,,,Pass-31
+31,Tamper Switch,1st Floor,Standpipe center community rm,FALSE,FALSE,FALSE,M015,,Pass,,,,Pass-32
+32,Tamper Switch,1st Floor,Standpipe center by community rm,FALSE,FALSE,FALSE,M015,,Pass,,,,Pass-33
+33,Tamper Switch,1st Floor,Standpipe right of elevator,FALSE,FALSE,FALSE,M015,,Pass,,,,Pass-34
+34,Tamper Switch,1st Floor,Standpipe by stair 4,FALSE,FALSE,FALSE,M010,,Pass,,,,Pass-35
+35,Tamper Switch,1st Floor,Main sprinkler Rm city side,FALSE,TRUE,FALSE,M014,,Pass,,,,Pass-36
+36,Tamper Switch,1st Floor,Main Sprinkler Rm system side,FALSE,TRUE,FALSE,M014,,Pass,,,,Pass-37
+37,Tamper Switch,1st Floor,Main sprinkler Rm valve city side of pump,FALSE,TRUE,FALSE,M014,,Pass,,,,Pass-38
+38,Tamper Switch,1st Floor,Main sprinkler Rm discharge side,FALSE,TRUE,FALSE,M014,,Pass,,,,Pass-39
+39,Tamper Switch,1st Floor,Main sprinkler Rm city side bypass,FALSE,TRUE,FALSE,M014,,Pass,,,,Pass-40
+40,Tamper Switch,1st Floor,Main sprinkler Rm system side bypass,FALSE,TRUE,FALSE,M014,,Pass,,,,Pass-41
+41,Fire Pump Control,1st Floor,Main sprinkler Rm fire pump shutdown,FALSE,TRUE,FALSE,M014,,Pass,,,,Pass-42
+42,Heat Detector,4th Floor,Apartment 401,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-43
+43,Horn Strobe,4th Floor,Apartment 401,TRUE,FALSE,FALSE,,,Pass,,,,Pass-44
+44,Smoke Detector,4th Floor,Hall By 401 and Storage,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-45
+45,Heat Detector,4th Floor,Apartment 403,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-46
+46,Horn,4th Floor,Apartment 403,TRUE,FALSE,FALSE,,,Pass,,,,Pass-47
+47,Heat Detector,4th Floor,Apartment 405,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-48
+48,Horn,4th Floor,Apartment 405,TRUE,FALSE,FALSE,,,Pass,,,,Pass-49
+49,Horn Strobe,4th Floor,Hall By 401,TRUE,FALSE,FALSE,,,Pass,,,,Pass-50
+50,Heat Detector,4th Floor,Apartment 402,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-51
+51,Horn,4th Floor,Apartment 402,TRUE,FALSE,FALSE,,,Pass,,,,Pass-52
+52,Pull Station,4th Floor,By Stair 1,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-53
+53,Smoke Detector,4th Floor,Stair 1,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-54
+54,Heat Detector,4th Floor,Apartment 404,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-55
+55,Horn,4th Floor,Apartment 404,TRUE,FALSE,FALSE,,,Pass,,,,Pass-56
+56,Smoke Detector,4th Floor,Hall by 404,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-57
+57,Smoke Detector,4th Floor,Hall Between 407 and 406,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-58
+58,Heat Detector,4th Floor,Apartment 406,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-59
+59,Horn,4th Floor,Apartment 406,TRUE,FALSE,FALSE,,,Pass,,,,Pass-60
+60,Heat Detector,4th Floor,Apartment 407,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-61
+61,Horn,4th Floor,Apartment 407,TRUE,FALSE,FALSE,,,Pass,,,,Pass-62
+62,Horn Strobe,4th Floor,Hall Between 407 and 409,TRUE,FALSE,FALSE,,,Pass,,,,Pass-63
+63,Horn Strobe,4th Floor,Hall Between 406 and 408,TRUE,FALSE,FALSE,,,Pass,,,,Pass-64
+64,Smoke Detector,4th Floor,Hall Between 408 and 409,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-65
+65,Heat Detector,4th Floor,Apartment 408,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-66
+66,Horn,4th Floor,Apartment 408,TRUE,FALSE,FALSE,,,Pass,,,,Pass-67
+67,Heat Detector,4th Floor,Apartment 409,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-68
+68,Horn,4th Floor,Apartment 409,TRUE,FALSE,FALSE,,,Pass,,,,Pass-69
+69,Smoke Detector,4th Floor,Hall Between 410 and 411,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-70
+70,Horn Strobe,4th Floor,Hall Between 413 and 411,TRUE,FALSE,FALSE,,,Pass,,,,Pass-71
+71,Horn Strobe,4th Floor,Hall Between 412 and Storage,TRUE,FALSE,FALSE,,,Pass,,,,Pass-72
+72,Heat Detector,4th Floor,Apartment 410,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-73
+73,Horn,4th Floor,Apartment 410,TRUE,FALSE,FALSE,,,Pass,,,,Pass-74
+74,Heat Detector,4th Floor,Apartment 411,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-75
+75,Horn,4th Floor,Apartment 411,TRUE,FALSE,FALSE,,,Pass,,,,Pass-76
+76,Smoke Detector,4th Floor,Hall Between 412 and 413,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-77
+77,Heat Detector,4th Floor,Apartment 412,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-78
+78,Horn,4th Floor,Apartment 412,TRUE,FALSE,FALSE,,,Pass,,,,Pass-79
+79,Heat Detector,4th Floor,Apartment 413,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-80
+80,Horn,4th Floor,Apartment 413,TRUE,FALSE,FALSE,,,Pass,,,,Pass-81
+81,Heat Detector,4th Floor,Apartment 414,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-82
+82,Horn Strobe,4th Floor,Apartment 414,TRUE,FALSE,FALSE,,,Pass,,,,Pass-83
+83,Smoke Detector,4th Floor,Hall Between 415 and Storage,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-84
+84,Heat Detector,4th Floor,Apartment 415,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-85
+85,Horn,4th Floor,Apartment 415,TRUE,FALSE,FALSE,,,Pass,,,,Pass-86
+86,Heat Detector,4th Floor,Trash Rm Left,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-87
+87,Smoke Detector,4th Floor,Electrical Rm Left,TRUE,FALSE,FALSE,D006,,Pass,,,,Pass-88
+88,Heat Detector,4th Floor,Electrical Rm Left,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-89
+89,Smoke Detector,4th Floor,Hall By 417,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-90
+90,Pull Station,4th Floor,Hall By 417,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-91
+91,Horn Strobe,4th Floor,Hall By 417,TRUE,FALSE,FALSE,,,Pass,,,,Pass-92
+92,Heat Detector,4th Floor,Apartment 417,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-93
+93,Horn,4th Floor,Apartment 417,TRUE,FALSE,FALSE,,,Pass,,,,Pass-94
+94,Smoke Detector,4th Floor,Elevator Seating Area,TRUE,FALSE,FALSE,M008,,Pass,,,,Pass-95
+95,Smoke Detector,4th Floor,Between 416 and 419,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-96
+96,Horn Strobe,4th Floor,Between 416 and 418,TRUE,FALSE,FALSE,,,Pass,,,,Pass-97
+97,Heat Detector,4th Floor,Apartment 416,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-98
+98,Horn,4th Floor,Apartment 416,TRUE,FALSE,FALSE,,,Pass,,,,Pass-99
+99,Heat Detector,4th Floor,Apartment 419,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-100
+100,Horn,4th Floor,Apartment 419,TRUE,FALSE,FALSE,,,Pass,,,,Pass-101
+101,Smoke Detector,4th Floor,Hall Between 418 and 421,TRUE,FALSE,FALSE,,,Pass,,,,Pass-102
+102,Heat Detector,4th Floor,Apartment 418,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-103
+103,Horn,4th Floor,Apartment 418,TRUE,FALSE,FALSE,,,Pass,,,,Pass-104
+104,Heat Detector,4th Floor,Apartment 421,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-105
+105,Horn,4th Floor,Apartment 421,TRUE,FALSE,FALSE,,,Pass,,,,Pass-106
+106,Horn Strobe,4th Floor,Hall Between 421 and 423,TRUE,FALSE,FALSE,,,Pass,,,,Pass-107
+107,Heat Detector,4th Floor,Apartment 420,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-108
+108,Horn,4th Floor,Apartment 420,TRUE,FALSE,FALSE,,,Pass,,,,Pass-109
+109,Heat Detector,4th Floor,Apartment 423,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-110
+110,Horn,4th Floor,Apartment 423,TRUE,FALSE,FALSE,,,Pass,,,,Pass-111
+111,Smoke Detector,4th Floor,Hall By 425,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-112
+112,Heat Detector,4th Floor,Apartment 425,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-113
+113,Horn,4th Floor,Apartment 425,TRUE,FALSE,FALSE,,,Pass,,,,Pass-114
+114,Horn Strobe,4th Floor,By Laundry Room,TRUE,FALSE,FALSE,,,Pass,,,,Pass-115
+115,Heat Detector,4th Floor,Laundry Room,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-116
+116,Pull Station,4th Floor,By Stair 2,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-117
+117,Smoke Detector,4th Floor,Stair 2,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-118
+118,Smoke Detector,4th Floor,Hall By Janitor Closet and Storage Room,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-119
+119,Pull Station,4th Floor,Hall By 422 and Stair 3,TRUE,FALSE,FALSE,,,Pass,,,,Pass-120
+120,Heat Detector,4th Floor,Apartment 422,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-121
+121,Horn,4th Floor,Apartment 422,TRUE,FALSE,FALSE,,,Pass,,,,Pass-122
+122,Smoke Detector,4th Floor,Hall By 429,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-123
+123,Smoke Detector,4th Floor,Stair 3,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-124
+124,Smoke Detector,4th Floor,Hall by 427,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-125
+125,Heat Detector,4th Floor,Apartment 427,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-126
+126,Horn,4th Floor,Apartment 427,TRUE,FALSE,FALSE,,,Pass,,,,Pass-127
+127,Heat Detector,4th Floor,Apartment 424,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-128
+128,Horn,4th Floor,Apartment 424,TRUE,FALSE,FALSE,,,Pass,,,,Pass-129
+129,Heat Detector,4th Floor,Apartment 429,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-130
+130,Horn,4th Floor,Apartment 429,TRUE,FALSE,FALSE,,,Pass,,,,Pass-131
+131,Smoke Detector,4th Floor,Hall Between 426 and 431,TRUE,FALSE,FALSE,,,Pass,,,,Pass-132
+132,Horn Strobe,4th Floor,Hall Between 429 and 431,TRUE,FALSE,FALSE,,,Pass,,,,Pass-133
+133,Heat Detector,4th Floor,Apartment 431,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-134
+134,Horn,4th Floor,Apartment 431,TRUE,FALSE,FALSE,,,Pass,,,,Pass-135
+135,Heat Detector,4th Floor,Apartment 426,TRUE,FALSE,FALSE,M013,,Pass,,,,Pass-136
+136,Horn,4th Floor,Apartment 426,TRUE,FALSE,FALSE,,,Pass,,,,Pass-137
+137,Pull Station,4th Floor,Right Hall Fire Doors,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-138
+138,Horn Strobe,4th Floor,Right Hall Fire Doors,TRUE,FALSE,FALSE,,,Pass,,,,Pass-139
+139,Smoke Detector,4th Floor,Hall between 428 and 433,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-140
+140,Horn Strobe,4th Floor,Hall by 433,TRUE,FALSE,FALSE,,,Pass,,,,Pass-141
+141,Heat Detector,4th Floor,Apartment 428,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-142
+142,Horn,4th Floor,Apartment 428,TRUE,FALSE,FALSE,,,Pass,,,,Pass-143
+143,Heat Detector,4th Floor,Apartment 428,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-144
+144,Horn,4th Floor,Apartment 428,TRUE,FALSE,FALSE,,,Pass,,,,Pass-145
+145,Heat Detector,4th Floor,Apartment 428,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-146
+146,Horn,4th Floor,Apartment 428,TRUE,FALSE,FALSE,,,Pass,,,,Pass-147
+147,Smoke Detector,4th Floor,Hall by 435,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-148
+148,Heat Detector,4th Floor,Apartment 435,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-149
+149,Horn Strobe,4th Floor,Apartment 435 Entry,TRUE,FALSE,FALSE,,,Pass,,,,Pass-150
+150,Ceiling Strobe,4th Floor,Apartment 435 Bathroom,TRUE,FALSE,FALSE,,,Pass,,,,Pass-151
+151,Ceiling Horn Strobe,4th Floor,Apartment 435 Bedroom,TRUE,FALSE,FALSE,,,Pass,,,,Pass-152
+152,Smoke Detector,4th Floor,Hall by Electrical Room,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-153
+153,Heat Detector,4th Floor,Apartment 430,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-154
+154,Horn,4th Floor,Apartment 430,TRUE,FALSE,FALSE,,,Pass,,,,Pass-155
+155,Smoke Detector,4th Floor,Elevator Seating Area,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-156
+156,Smoke Detector,4th Floor,Electrical Rm Right,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-157
+157,Heat Detector,4th Floor,Electrical Rm Right,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-158
+158,Battery(ies),4th Floor,Electrical Rm Right (ADA),TRUE,FALSE,FALSE,,,Pass,TOP,,,Pass-159
+159,Battery(ies),4th Floor,Electrical Rm Right (ADA),TRUE,FALSE,FALSE,,,Fail,CENTER= due to low ah ratings. (2) 12v 7ah,,,Fail-1
+160,Battery(ies),4th Floor,Electrical Rm Right (ADA),TRUE,FALSE,FALSE,,,Fail,BOTTOM= due to low ah ratings. (2) 12v 7ah,,,Fail-2
+161,Horn Strobe,4th Floor,Hall by Apartment 437,TRUE,FALSE,FALSE,,,Pass,,,,Pass-160
+162,Heat Detector,4th Floor,Trash Rm Right,TRUE,FALSE,FALSE,M012,,Fail,Dmaged. Convent. 135.,,,Fail-3
+163,Heat Detector,4th Floor,Apartment 437,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-161
+164,Horn,4th Floor,Apartment 437,TRUE,FALSE,FALSE,,,Pass,,,,Pass-162
+165,Smoke Detector,4th Floor,Hall By Apartment 432,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-163
+166,Heat Detector,4th Floor,Apartment 432,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-164
+167,Horn,4th Floor,Apartment 432,TRUE,FALSE,FALSE,,,Pass,,,,Pass-165
+168,Heat Detector,4th Floor,Apartment 439,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-166
+169,Horn Strobe,4th Floor,Apartment 439 Entry,TRUE,FALSE,FALSE,,,Pass,,,,Pass-167
+170,Ceiling Strobe,4th Floor,Apartment 439 Bathroom,TRUE,FALSE,FALSE,,,Pass,,,,Pass-168
+171,Ceiling Horn Strobe,4th Floor,Apartment 439 Bedroom,TRUE,FALSE,FALSE,,,Pass,,,,Pass-169
+172,Smoke Detector,4th Floor,Hall By Apartment 434,TRUE,FALSE,FALSE,,,Pass,,,,Pass-170
+173,Heat Detector,4th Floor,Apartment 432,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-171
+174,Horn Strobe,4th Floor,Apartment 432 Entry,TRUE,FALSE,FALSE,,,Pass,,,,Pass-172
+175,Ceiling Strobe,4th Floor,Apartment 432 Bathroom,TRUE,FALSE,FALSE,,,Pass,,,,Pass-173
+176,Ceiling Horn Strobe,4th Floor,Apartment 432 Bedroom,TRUE,FALSE,FALSE,,,Pass,,,,Pass-174
+177,Heat Detector,4th Floor,Apartment 441,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-175
+178,Horn Strobe,4th Floor,Apartment 441,TRUE,FALSE,FALSE,,,Pass,,,,Pass-176
+179,Smoke Detector,4th Floor,By Apartment 436,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-177
+180,Horn Strobe,4th Floor,Hall Between 441 and 443,TRUE,FALSE,FALSE,,,Pass,,,,Pass-178
+181,Heat Detector,4th Floor,Apartment 436,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-179
+182,Horn Strobe,4th Floor,Apartment 436 Entry,TRUE,FALSE,FALSE,,,Pass,,,,Pass-180
+183,Ceiling Strobe,4th Floor,Apartment 436 Bathroom,TRUE,FALSE,FALSE,,,Pass,,,,Pass-181
+184,Ceiling Horn Strobe,4th Floor,Apartment 436 Bedroom,TRUE,FALSE,FALSE,,,Pass,,,,Pass-182
+185,Heat Detector,4th Floor,Apartment 443,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-183
+186,Horn,4th Floor,Apartment 443,TRUE,FALSE,FALSE,,,Pass,,,,Pass-184
+187,Smoke Detector,4th Floor,Hall By apartment 448,TRUE,FALSE,FALSE,,,Pass,,,,Pass-185
+188,Horn Strobe,4th Floor,Hall By apartment 448,TRUE,FALSE,FALSE,,,Pass,,,,Pass-186
+189,Heat Detector,4th Floor,Apartment 438,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-187
+190,Horn Strobe,4th Floor,Apartment 438,TRUE,FALSE,FALSE,,,Pass,,,,Pass-188
+191,Heat Detector,4th Floor,Apartment 445,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-189
+192,Horn Strobe,4th Floor,Apartment 445 Entry,TRUE,FALSE,FALSE,,,Pass,,,,Pass-190
+193,Ceiling Strobe,4th Floor,Apartment 445 Bathroom,TRUE,FALSE,FALSE,,,Pass,,,,Pass-191
+194,Ceiling Horn Strobe,4th Floor,Apartment 445 Bedroom 1,TRUE,FALSE,FALSE,,,Pass,,,,Pass-192
+195,Mini Horn,4th Floor,Apartment 445 Bedroom 2,TRUE,FALSE,FALSE,,,Pass,,,,Pass-193
+196,Smoke Detector,4th Floor,Hall By Stair 4,TRUE,FALSE,FALSE,,,Pass,,,,Pass-194
+197,Pull Station,4th Floor,Hall By Stair 4,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-195
+198,Horn Strobe,4th Floor,Hall By Stair 4,TRUE,FALSE,FALSE,,,Pass,,,,Pass-196
+199,Heat Detector,4th Floor,Apartment 446,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-197
+200,Horn,4th Floor,Apartment 446,TRUE,FALSE,FALSE,,,Pass,,,,Pass-198
+201,Heat Detector,4th Floor,Apartment 444,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-199
+202,Horn,4th Floor,Apartment 444,TRUE,FALSE,FALSE,,,Pass,,,,Pass-200
+203,Smoke Detector,4th Floor,Stair 4,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-201
+204,Heat Detector,4th Floor,Apartment 442,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-202
+205,Horn,4th Floor,Apartment 442,TRUE,FALSE,FALSE,,,Pass,,,,Pass-203
+206,Heat Detector,4th Floor,Apartment 440,TRUE,FALSE,FALSE,M012,,Pass,,,,Pass-204
+207,Horn,4th Floor,Apartment 440,TRUE,FALSE,FALSE,,,Pass,,,,Pass-205

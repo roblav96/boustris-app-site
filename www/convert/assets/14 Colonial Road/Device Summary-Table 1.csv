@@ -1,0 +1,146 @@
+PROPERTY,,Groves at Milford,,,,,,,,,,,
+ADDRESS,,14 Colonial Road,,,,,,,,,,,
+INSPECTOR,,Yuscelino Vargas,,,,,,,,,,,
+LICENSE #,,A17546,,,,,,,,,DATE:,"Monday, November 11, 2013",
+#,Type,Location,,Alarm,Trouble,Supervisory,Address,Zone,Pass/Fail,Note,,,
+1,Annunciator,1st fl ,By front entry,TRUE,FALSE,FALSE,,,Pass,,,,Pass-1
+2,Battery(ies),1st fl ,FACP,FALSE,TRUE,FALSE,,,Pass,,,,Pass-2
+3,Battery(ies),1st fl ,ADA By FACP,FALSE,TRUE,FALSE,,,Pass,,,,Pass-3
+4,Heat Detector,Apt 12,Kitchen,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-4
+5,Bell,Apt 12,Kitchen,TRUE,FALSE,FALSE,,,Pass,,,,Pass-5
+6,Heat Detector,Apt 12,Livin rm,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-6
+7,Heat Detector,Apt 12,Bathrm,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-7
+8,Heat Detector,Apt 12,Laundry,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-8
+9,Heat Detector,Apt 12,Closet,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-9
+10,Heat Detector,Apt 12,Bedrm 1,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-10
+11,Heat Detector,Apt 12,Bedrm 1 closet,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-11
+12,Heat Detector,Apt 12,Bedrm 2,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-12
+13,Heat Detector,Apt 12,Bedrm 2 closet,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-13
+14,Smoke Detector,3rd fl,By Apt 12,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-14
+15,Pull Station,3rd fl,By Apt 12,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-15
+16,Heat Detector,Apt 9,Kitchen,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-16
+17,Bell,Apt 9,Kitchen,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-17
+18,Heat Detector,Apt 9,Livin rm,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-18
+19,Heat Detector,Apt 9,Bathrm,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-19
+20,Heat Detector,Apt 9,Laundry,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-20
+21,Heat Detector,Apt 9,Closet,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-21
+22,Heat Detector,Apt 9,Bedrm 1,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-22
+23,Heat Detector,Apt 9,Bedrm 1 closet,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-23
+24,Heat Detector,Apt 9,Bedrm 2,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-24
+25,Heat Detector,Apt 9,Bedrm 2 closet,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-25
+26,Smoke Detector,3rd fl,Hallway,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-26
+27,Horn Strobe,3rd fl,Hallway,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-27
+28,Heat Detector,Apt 11,Kitchen,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-28
+29,Bell,Apt 11,Kitchen,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-29
+30,Heat Detector,Apt 11,Livin rm,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-30
+31,Heat Detector,Apt 11,Bathrm,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-31
+32,Heat Detector,Apt 11,Laundry,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-32
+33,Heat Detector,Apt 11,Closet,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-33
+34,Heat Detector,Apt 11,Bedrm 1,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-34
+35,Heat Detector,Apt 11,Bedrm 1 closet,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-35
+36,Heat Detector,Apt 11,Bedrm 2,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-36
+37,Heat Detector,Apt 11,Bedrm 2 closet,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-37
+38,Smoke Detector,3rd fl,By Apt 10,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-38
+39,Pull Station,3rd fl,By Apt 10,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-39
+40,Heat Detector,Apt 10,Kitchen,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-40
+41,Bell,Apt 10,Kitchen,TRUE,FALSE,FALSE,,,Pass,,,,Pass-41
+42,Heat Detector,Apt 10,Livin rm,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-42
+43,Heat Detector,Apt 10,Bathrm,TRUE,FALSE,FALSE,,3,Fail,Painted.,,,Fail-1
+44,Heat Detector,Apt 10,Laundry,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-43
+45,Heat Detector,Apt 10,Closet,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-44
+46,Heat Detector,Apt 10,Bedrm 1,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-45
+47,Heat Detector,Apt 10,Bedrm 1 closet,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-46
+48,Heat Detector,Apt 10,Bedrm 2,TRUE,FALSE,FALSE,,3,Pass,,,,Pass-47
+49,Heat Detector,Apt 10,Bedrm 2 closet,TRUE,FALSE,FALSE,,3,Fail,Painted.,,,Fail-2
+50,Heat Detector,Apt 8,Kitchen,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-48
+51,Bell,Apt 8,Kitchen,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-49
+52,Heat Detector,Apt 8,Livin rm,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-50
+53,Heat Detector,Apt 8,Laundry,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-51
+54,Heat Detector,Apt 8,Bathrm,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-52
+55,Heat Detector,Apt 8,Closet,FALSE,FALSE,FALSE,,2,Fail,Painted.,,,Fail-3
+56,Heat Detector,Apt 8,Bedrm 1,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-53
+57,Heat Detector,Apt 8,Bedrm 1 closet,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-54
+58,Heat Detector,Apt 8,Bedrm 2,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-55
+59,Heat Detector,Apt 8,Bedrm 2 closet,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-56
+60,Heat Detector,2nd fl,By Apt 8,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-57
+61,Pull Station,2nd fl,By Apt 8,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-58
+62,Heat Detector,Apt 5,Kitchen,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-59
+63,Bell,Apt 5,Kitchen,FALSE,FALSE,FALSE,,,Pass,,,,Pass-60
+64,Heat Detector,Apt 5,Livin rm,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-61
+65,Heat Detector,Apt 5,Bathrm,FALSE,FALSE,FALSE,,2,Fail,Painted.,,,Fail-4
+66,Heat Detector,Apt 5,Laundry,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-62
+67,Heat Detector,Apt 5, Closet,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-63
+68,Heat Detector,Apt 5,Bedrm 1,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-64
+69,Heat Detector,Apt 5,Bedrm 1 closet,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-65
+70,Heat Detector,Apt 5,Bedrm 2,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-66
+71,Heat Detector,Apt 5,Bedrm 2 closet,FALSE,FALSE,FALSE,,2,Pass,,,,Pass-67
+72,Smoke Detector,2nd fl,Hallway,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-68
+73,Heat Detector,2nd fl,Hallway closet,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-69
+74,Horn Strobe,2nd fl,Hallway,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-70
+75,Heat Detector,2nd fl,Hallway closet,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-71
+76,Heat Detector,Apt 7,Kitchen,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-72
+77,Bell,Apt 7,Kitchen,TRUE,FALSE,FALSE,,,Pass,,,,Pass-73
+78,Heat Detector,Apt 7,Livin rm,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-74
+79,Heat Detector,Apt 7,Bathrm,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-75
+80,Heat Detector,Apt 7,Laundry,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-76
+81,Heat Detector,Apt 7,Closet,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-77
+82,Heat Detector,Apt 7,Bedrm 1,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-78
+83,Heat Detector,Apt  7,Bedrm 1 closet,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-79
+84,Heat Detector,Apt 7,Bedrm 2,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-80
+85,Heat Detector,Apt 7,Bedrm 2 closet,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-81
+86,Heat Detector,2nd fl,By Apt 6,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-82
+87,Pull Station,2nd fl,By Apt 6,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-83
+88,Heat Detector,Apt 6,Kitchen,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-84
+89,Bell,Apt 6,Kitchen,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-85
+90,Heat Detector,Apt 6,Livin rm,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-86
+91,Heat Detector,Apt 6,Bathrm,TRUE,FALSE,FALSE,,2,Fail,Painted.,,,Fail-5
+92,Heat Detector,Apt 6,Laundry,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-87
+93,Heat Detector,Apt 6,Closet,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-88
+94,Heat Detector,Apt 6,Bedrm 1,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-89
+95,Heat Detector,Apt 6,Bedrm 1 closet,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-90
+96,Heat Detector,Apt 6,Bedrm 2,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-91
+97,Heat Detector,Apt 6,Bedrm 2 closet,TRUE,FALSE,FALSE,,2,Pass,,,,Pass-92
+98,Smoke Detector,1st fl,By Apt 1 ,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-93
+99,Pull Station,1st fl,By Apt 1 ,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-94
+100,Heat Detector,Apt 4,Kitchen,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-95
+101,Bell,Apt 4,Kitchen,TRUE,FALSE,FALSE,,,Pass,,,,Pass-96
+102,Heat Detector,Apt 4,Livin rm,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-97
+103,Heat Detector,Apt 4,Bathrm,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-98
+104,Heat Detector,Apt 4,Laundry,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-99
+105,Heat Detector,Apt 4,Closet,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-100
+106,Heat Detector,Apt 4,Bedrm 1,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-101
+107,Heat Detector,Apt 4,Bedrm 1 closet,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-102
+108,Heat Detector,Apt 4,Bedrm 2,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-103
+109,Heat Detector,Apt 4,Bedrm 2 closet,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-104
+110,Heat Detector,Apt 1 ,Kitchen,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-105
+111,Bell,Apt 1 ,Kitchen,TRUE,FALSE,FALSE,,,Pass,,,,Pass-106
+112,Heat Detector,Apt 1,Livin rm,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-107
+113,Heat Detector,Apt 1,Bathrm,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-108
+114,Heat Detector,Apt 1,Laundry,TRUE,FALSE,FALSE,,1,Fail,Painted.,,,Fail-6
+115,Heat Detector,Apt 1 , Closet,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-109
+116,Heat Detector,Apt 1,bedrm 1,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-110
+117,Heat Detector,Apt 1,Bedrm 1 closet,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-111
+118,Heat Detector,Apt 1 ,Bedrm 2,TRUE,FALSE,FALSE,,1,Fail,Painted.,,,Fail-7
+119,Heat Detector,Apt 1 ,Bedrm 2 closet,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-112
+120,Smoke Detector,1st fl,Hallway,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-113
+121,Horn Strobe,1st fl,Hallway,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-114
+122,Smoke Detector,1st fl,By Apt 2,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-115
+123,Pull Station,1st fl,By Apt 2,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-116
+124,Heat Detector,Apt 2,Kitchen,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-117
+125,Bell,Apt 2,Kitchen,TRUE,FALSE,FALSE,,,Pass,,,,Pass-118
+126,Heat Detector,Apt 2,Livin rm,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-119
+127,Heat Detector,Apt 2,Bathrm,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-120
+128,Heat Detector,Apt 2,Laundry,TRUE,FALSE,FALSE,,1,Fail,Painted.,,,Fail-8
+129,Heat Detector,Apt 2,Closet,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-121
+130,Heat Detector,Apt 2,Bedrm 1,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-122
+131,Heat Detector,Apt 2,Bedrm 1 closet,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-123
+132,Heat Detector,Apt 2,Bedrm 2,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-124
+133,Heat Detector,Apt 2,Bedrm 2 closet,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-125
+134,Heat Detector,1st fl,Boiler rm ent.,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-126
+135,Horn Strobe,1st fl,By FACP,TRUE,FALSE,FALSE,,,Pass,,,,Pass-127
+136,Heat Detector,1st fl,By FACP,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-128
+137,Heat Detector,1st fl,By Water tank,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-129
+138,Heat Detector,1st fl,By Boiler,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-130
+139,Horn,1st fl,By exit,TRUE,FALSE,FALSE,,,Pass,,,,Pass-131
+140,Pull Station,1st fl,By exit,TRUE,FALSE,FALSE,,1,Pass,,,,Pass-132
+141,Horn Strobe,1st fl,Front of bldg.,TRUE,FALSE,FALSE,,,Pass,,,,Pass-133
