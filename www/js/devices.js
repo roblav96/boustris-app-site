@@ -160,10 +160,10 @@ function initializeData() {
 
 
 
-		// var rep = ""
-		// if (devices[i][9]) {
-		var rep = devices[ i ][ 9 ].replace( /\n/g, "<br />" ).replace( /Work Order #:/i, "<span class='red'>Work Order #</span>:" )
-			// }
+		var rep = ""
+		if ( typeof devices[ i ][ 9 ] == "string" ) {
+			rep = devices[ i ][ 9 ].replace( /\n/g, "<br />" ).replace( /Work Order #:/i, "<span class='red'>Work Order #</span>:" )
+		}
 		row.append( '<td>' + rep + '</td>' )
 
 		if ( devices[ i ][ 10 ] === true ) {
@@ -583,3 +583,4 @@ document.getElementById( 'remove_all_notes_btn' ).addEventListener( 'click', fun
 // $("div").bind('mouseheld', function(e) {
 //     console.log('Held', e);
 // })
+

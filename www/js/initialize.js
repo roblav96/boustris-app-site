@@ -54,11 +54,11 @@ $( window ).load( function () {
 } )
 
 $( document ).ready( function () {
-	// $.getJSON( "assets/BlakeEstates_Wed_Jan_07_2015.json", function ( json ) {
-	// 	report = json[ 0 ]
-	// 	devices = json[ 1 ]
-	// 	loadThaDATA()
-	// } )
+	$.getJSON( "assets/DEMO.json", function ( json ) {
+		report = json[ 0 ]
+		devices = json[ 1 ]
+		loadThaDATA()
+	} )
 } )
 
 
